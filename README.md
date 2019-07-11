@@ -1,7 +1,7 @@
 # BarnsleyFern
 
 ## Using computer to reproduce one of the most interesting natural fact:
-Mathematics can explain and reproduce some basic natural structure with statistics 
+Mathematics can explain and reproduce some basic natural's structures with statistics 
 
 Have a look at it 😄
 
